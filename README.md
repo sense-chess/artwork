@@ -1,6 +1,3 @@
-# artwork
-everthing that is independent of code
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/e-chess/artwork/master/echess.png" width=80><br>
 </p>
