@@ -5,7 +5,7 @@
 <br>
 <br>
 <p align="center">
-  These are the files of the project sense-chess that are independent of code.
+  These are the files of the project sense-chess that are independent of code like the sense-chess logo and the chess icons.
   <br>
   Under permanent construction.
   <br>
