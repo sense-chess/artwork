@@ -11,7 +11,7 @@
   board as display possibilities:
   <br>
   <br>
-  <img src="https://github.com/sense-chess/artwork/blob/master/display/Version1.svg">
+  <img src="https://github.com/sense-chess/artwork/blob/master/DISPLAY/Version1.svg">
   <br>
   <br>
  figures possibilities:
