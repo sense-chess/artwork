@@ -11,26 +11,32 @@
   board as display possibilities:
   <br>
   <br>
-  <img src="https://github.com/sense-chess/artwork/blob/master/DISPLAY/Version1.svg">
+  <img src="https://github.com/sense-chess/artwork/blob/master/display/Version1.svg">
   <br>
   <br>
-  icons:
+ figures possibilities:
   <br>
   <br>
-  <img src="https://github.com/sense-chess/artwork/blob/master/bishop/bB.svg" width=15%>
-  <img src="https://github.com/sense-chess/artwork/blob/master/king/bK.svg" width=15%>
-  <img src="https://github.com/sense-chess/artwork/blob/master/knight/bN.svg" width=15%>
-  <img src="https://github.com/sense-chess/artwork/blob/master/pawn/bP.svg" width=15%>
-  <img src="https://github.com/sense-chess/artwork/blob/master/queen/bQ.svg" width=15%>
-  <img src="https://github.com/sense-chess/artwork/blob/master/rook/bR.svg" width=15%>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/Version1.svg">
+  <br>
+  <br> 
+ icons:
+  <br>
+  <br>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/bishop/bB.svg" width=15%>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/king/bK.svg" width=15%>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/knight/bN.svg" width=15%>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/pawn/bP.svg" width=15%>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/queen/bQ.svg" width=15%>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/rook/bR.svg" width=15%>
   
   <br>
-  <img src="https://github.com/sense-chess/artwork/blob/master/bishop/wB.svg" width=15%>
-  <img src="https://github.com/sense-chess/artwork/blob/master/king/wK.svg" width=15%>
-  <img src="https://github.com/sense-chess/artwork/blob/master/knight/wN.svg" width=15%>
-  <img src="https://github.com/sense-chess/artwork/blob/master/pawn/wP.svg" width=15%>
-  <img src="https://github.com/sense-chess/artwork/blob/master/queen/wQ.svg" width=15%>
-  <img src="https://github.com/sense-chess/artwork/blob/master/rook/wR.svg" width=15%>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/bishop/wB.svg" width=15%>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/king/wK.svg" width=15%>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/knight/wN.svg" width=15%>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/pawn/wP.svg" width=15%>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/queen/wQ.svg" width=15%>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/rook/wR.svg" width=15%>
   <br>
   <br>
   background:
@@ -38,8 +44,11 @@
   <br>
   <img src="https://github.com/sense-chess/artwork/blob/master/background.svg">
   <br>
+  <br>
   Under permanent construction.
   <br>
+  <br>
+ <br>
   <br>
   <br>
 </p>  
