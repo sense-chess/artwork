@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1881 1879">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-neartochess);
+      }
+
+      .cls-2 {
+        fill: #707070;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: rgba(255,87,87,0.68);
+        opacity: 0.6;
+      }
+
+      .cls-5 {
+        fill: #e0e0e0;
+      }
+
+      .cls-6 {
+        fill: #393939;
+      }
+    </style>
+    <clipPath id="clip-neartochess">
+      <rect width="1881" height="1879"/>
+    </clipPath>
+  </defs>
+  <g id="neartochess" class="cls-1">
+    <rect class="cls-3" width="1881" height="1879"/>
+    <g id="Brett1" transform="translate(154 161)">
+      <g id="Schachbrett" transform="translate(34 27)">
+        <rect id="Rechteck_1" data-name="Rechteck 1" class="cls-2" width="188" height="188" transform="translate(0 188)"/>
+        <rect id="Rechteck_2" data-name="Rechteck 2" class="cls-3" width="188" height="188" transform="translate(188 188)"/>
+        <rect id="Rechteck_3" data-name="Rechteck 3" class="cls-2" width="188" height="188" transform="translate(376 188)"/>
+        <rect id="Rechteck_4" data-name="Rechteck 4" class="cls-2" width="188" height="188" transform="translate(752 188)"/>
+        <rect id="Rechteck_5" data-name="Rechteck 5" class="cls-3" width="188" height="188" transform="translate(564 188)"/>
+        <rect id="Rechteck_6" data-name="Rechteck 6" class="cls-3" width="188" height="188" transform="translate(940 188)"/>
+        <rect id="Rechteck_7" data-name="Rechteck 7" class="cls-2" width="188" height="188" transform="translate(1128 188)"/>
+        <rect id="Rechteck_8" data-name="Rechteck 8" class="cls-3" width="188" height="188" transform="translate(1316 188)"/>
+        <rect id="Rechteck_9" data-name="Rechteck 9" class="cls-3" width="188" height="188" transform="translate(0 376)"/>
+        <rect id="Rechteck_10" data-name="Rechteck 10" class="cls-2" width="188" height="188" transform="translate(188 376)"/>
+        <rect id="Rechteck_11" data-name="Rechteck 11" class="cls-3" width="188" height="188" transform="translate(376 376)"/>
+        <rect id="Rechteck_12" data-name="Rechteck 12" class="cls-3" width="188" height="188" transform="translate(752 376)"/>
+        <rect id="Rechteck_13" data-name="Rechteck 13" class="cls-2" width="188" height="188" transform="translate(564 376)"/>
+        <rect id="Rechteck_14" data-name="Rechteck 14" class="cls-2" width="188" height="188" transform="translate(940 376)"/>
+        <rect id="Rechteck_15" data-name="Rechteck 15" class="cls-3" width="188" height="188" transform="translate(1128 376)"/>
+        <rect id="Rechteck_16" data-name="Rechteck 16" class="cls-2" width="188" height="188" transform="translate(1316 376)"/>
+        <rect id="Rechteck_17" data-name="Rechteck 17" class="cls-2" width="188" height="188" transform="translate(0 564)"/>
+        <rect id="Rechteck_18" data-name="Rechteck 18" class="cls-3" width="188" height="188" transform="translate(188 564)"/>
+        <rect id="Rechteck_19" data-name="Rechteck 19" class="cls-2" width="188" height="188" transform="translate(376 564)"/>
+        <rect id="Rechteck_20" data-name="Rechteck 20" class="cls-2" width="188" height="188" transform="translate(752 564)"/>
+        <rect id="Rechteck_21" data-name="Rechteck 21" class="cls-3" width="188" height="188" transform="translate(564 564)"/>
+        <rect id="Rechteck_22" data-name="Rechteck 22" class="cls-3" width="188" height="188" transform="translate(940 564)"/>
+        <rect id="Rechteck_23" data-name="Rechteck 23" class="cls-2" width="188" height="188" transform="translate(1128 564)"/>
+        <rect id="Rechteck_24" data-name="Rechteck 24" class="cls-3" width="188" height="188" transform="translate(1316 564)"/>
+        <rect id="Rechteck_25" data-name="Rechteck 25" class="cls-3" width="188" height="188" transform="translate(0 752)"/>
+        <rect id="Rechteck_26" data-name="Rechteck 26" class="cls-2" width="188" height="188" transform="translate(188 752)"/>
+        <rect id="Rechteck_27" data-name="Rechteck 27" class="cls-3" width="188" height="188" transform="translate(376 752)"/>
+        <rect id="Rechteck_28" data-name="Rechteck 28" class="cls-3" width="188" height="188" transform="translate(752 752)"/>
+        <rect id="Rechteck_29" data-name="Rechteck 29" class="cls-2" width="188" height="188" transform="translate(564 752)"/>
+        <rect id="Rechteck_30" data-name="Rechteck 30" class="cls-2" width="188" height="188" transform="translate(940 752)"/>
+        <rect id="Rechteck_31" data-name="Rechteck 31" class="cls-3" width="188" height="188" transform="translate(1128 752)"/>
+        <rect id="Rechteck_32" data-name="Rechteck 32" class="cls-2" width="188" height="188" transform="translate(1316 752)"/>
+        <rect id="Rechteck_33" data-name="Rechteck 33" class="cls-2" width="188" height="188" transform="translate(0 940)"/>
+        <rect id="Rechteck_34" data-name="Rechteck 34" class="cls-3" width="188" height="188" transform="translate(188 940)"/>
+        <rect id="Rechteck_35" data-name="Rechteck 35" class="cls-2" width="188" height="188" transform="translate(376 940)"/>
+        <rect id="Rechteck_36" data-name="Rechteck 36" class="cls-2" width="188" height="188" transform="translate(752 940)"/>
+        <rect id="Rechteck_37" data-name="Rechteck 37" class="cls-3" width="188" height="188" transform="translate(564 940)"/>
+        <rect id="Rechteck_38" data-name="Rechteck 38" class="cls-3" width="188" height="188" transform="translate(940 940)"/>
+        <rect id="Rechteck_39" data-name="Rechteck 39" class="cls-2" width="188" height="188" transform="translate(1128 940)"/>
+        <rect id="Rechteck_40" data-name="Rechteck 40" class="cls-3" width="188" height="188" transform="translate(1316 940)"/>
+        <rect id="Rechteck_41" data-name="Rechteck 41" class="cls-3" width="188" height="188" transform="translate(0 1128)"/>
+        <rect id="Rechteck_42" data-name="Rechteck 42" class="cls-2" width="188" height="188" transform="translate(188 1128)"/>
+        <rect id="Rechteck_43" data-name="Rechteck 43" class="cls-3" width="188" height="188" transform="translate(376 1128)"/>
+        <rect id="Rechteck_44" data-name="Rechteck 44" class="cls-3" width="188" height="188" transform="translate(752 1128)"/>
+        <rect id="Rechteck_45" data-name="Rechteck 45" class="cls-2" width="188" height="188" transform="translate(564 1128)"/>
+        <rect id="Rechteck_46" data-name="Rechteck 46" class="cls-2" width="188" height="188" transform="translate(940 1128)"/>
+        <rect id="Rechteck_47" data-name="Rechteck 47" class="cls-3" width="188" height="188" transform="translate(1128 1128)"/>
+        <rect id="Rechteck_48" data-name="Rechteck 48" class="cls-2" width="188" height="188" transform="translate(1316 1128)"/>
+        <rect id="Rechteck_49" data-name="Rechteck 49" class="cls-3" width="188" height="188" transform="translate(0 0)"/>
+        <rect id="Rechteck_50" data-name="Rechteck 50" class="cls-2" width="188" height="188" transform="translate(188 0)"/>
+        <rect id="Rechteck_51" data-name="Rechteck 51" class="cls-3" width="188" height="188" transform="translate(376 0)"/>
+        <rect id="Rechteck_52" data-name="Rechteck 52" class="cls-3" width="188" height="188" transform="translate(752 0)"/>
+        <rect id="Rechteck_53" data-name="Rechteck 53" class="cls-2" width="188" height="188" transform="translate(564 0)"/>
+        <rect id="Rechteck_54" data-name="Rechteck 54" class="cls-2" width="188" height="188" transform="translate(940 0)"/>
+        <rect id="Rechteck_55" data-name="Rechteck 55" class="cls-3" width="188" height="188" transform="translate(1128 0)"/>
+        <rect id="Rechteck_56" data-name="Rechteck 56" class="cls-2" width="188" height="188" transform="translate(1316 0)"/>
+        <rect id="Rechteck_57" data-name="Rechteck 57" class="cls-2" width="188" height="188" transform="translate(0 1316)"/>
+        <rect id="Rechteck_58" data-name="Rechteck 58" class="cls-3" width="188" height="188" transform="translate(188 1316)"/>
+        <rect id="Rechteck_59" data-name="Rechteck 59" class="cls-2" width="188" height="188" transform="translate(376 1316)"/>
+        <rect id="Rechteck_60" data-name="Rechteck 60" class="cls-2" width="188" height="188" transform="translate(752 1316)"/>
+        <rect id="Rechteck_61" data-name="Rechteck 61" class="cls-3" width="188" height="188" transform="translate(564 1316)"/>
+        <rect id="Rechteck_62" data-name="Rechteck 62" class="cls-3" width="188" height="188" transform="translate(940 1316)"/>
+        <rect id="Rechteck_63" data-name="Rechteck 63" class="cls-2" width="188" height="188" transform="translate(1128 1316)"/>
+        <rect id="Rechteck_64" data-name="Rechteck 64" class="cls-3" width="188" height="188" transform="translate(1316 1316)"/>
+      </g>
+      <g id="Markierungen" transform="translate(0 -1)">
+        <path id="Farbe" class="cls-4" d="M0,0H188V188H0Z" transform="translate(787 968.22)"/>
+        <path id="Farbe-2" data-name="Farbe" class="cls-4" d="M0,0H188V188H0Z" transform="translate(599 968.22)"/>
+        <path id="Farbe-3" data-name="Farbe" class="cls-4" d="M0,0H188V188H0Z" transform="translate(599 1156.22)"/>
+        <path id="Farbe-4" data-name="Farbe" class="cls-4" d="M0,0H188V188H0Z" transform="translate(411 1156.22)"/>
+        <path id="Farbe-5" data-name="Farbe" class="cls-4" d="M0,0H188V188H0Z" transform="translate(411 968.22)"/>
+        <path id="Farbe-6" data-name="Farbe" class="cls-4" d="M0,0H188V188H0Z" transform="translate(410 779.22)"/>
+        <path id="Farbe-7" data-name="Farbe" class="cls-4" d="M0,0H188V188H0Z" transform="translate(599 779.22)"/>
+      </g>
+      <g id="Spielfiguren" transform="translate(72.607 67.286)">
+        <g id="white" transform="translate(0 1126.321)">
+          <rect id="Rechteck_65" data-name="Rechteck 65" class="cls-5" width="109.107" height="109.107" rx="5" transform="translate(0 189.679)"/>
+          <rect id="Rechteck_67" data-name="Rechteck 67" class="cls-5" width="109.107" height="109.107" rx="5" transform="translate(376 189.679)"/>
+          <rect id="Rechteck_69" data-name="Rechteck 69" class="cls-5" width="109.107" height="109.107" rx="5" transform="translate(752 189.679)"/>
+          <rect id="Rechteck_70" data-name="Rechteck 70" class="cls-5" width="109.107" height="109.107" rx="5" transform="translate(2 -563.321)"/>
+          <rect id="Rechteck_71" data-name="Rechteck 71" class="cls-5" width="109.107" height="109.107" rx="5" transform="translate(1128 189.679)"/>
+          <rect id="Rechteck_72" data-name="Rechteck 72" class="cls-5" width="109.107" height="109.107" rx="5" transform="translate(1316 189.679)"/>
+          <rect id="Rechteck_73" data-name="Rechteck 73" class="cls-5" width="109.107" height="109.107" rx="5" transform="translate(1.679)"/>
+          <rect id="Rechteck_75" data-name="Rechteck 75" class="cls-5" width="109.107" height="109.107" rx="5" transform="translate(187.679 -563)"/>
+          <rect id="Rechteck_76" data-name="Rechteck 76" class="cls-5" width="109.107" height="109.107" rx="5" transform="translate(563.678 -187)"/>
+          <rect id="Rechteck_77" data-name="Rechteck 77" class="cls-5" width="109.107" height="109.107" rx="5" transform="translate(751.678 -563)"/>
+          <rect id="Rechteck_78" data-name="Rechteck 78" class="cls-5" width="109.107" height="109.107" rx="5" transform="translate(1317.678 -379)"/>
+          <rect id="Rechteck_79" data-name="Rechteck 79" class="cls-5" width="109.107" height="109.107" rx="5" transform="translate(1129.679)"/>
+        </g>
+        <g id="black" transform="translate(1.679 0)">
+          <rect id="Rechteck_83" data-name="Rechteck 83" class="cls-6" width="109.107" height="109.107" rx="5" transform="translate(376)"/>
+          <rect id="Rechteck_84" data-name="Rechteck 84" class="cls-6" width="109.107" height="109.107" rx="5" transform="translate(564)"/>
+          <rect id="Rechteck_86" data-name="Rechteck 86" class="cls-6" width="109.107" height="109.107" rx="5" transform="translate(1316 567)"/>
+          <rect id="Rechteck_88" data-name="Rechteck 88" class="cls-6" width="109.107" height="109.107" rx="5" transform="translate(1316)"/>
+          <rect id="Rechteck_89" data-name="Rechteck 89" class="cls-6" width="109.107" height="109.107" rx="5" transform="translate(188 941.679)"/>
+          <rect id="Rechteck_92" data-name="Rechteck 92" class="cls-6" width="109.107" height="109.107" rx="5" transform="translate(564 566.679)"/>
+          <rect id="Rechteck_94" data-name="Rechteck 94" class="cls-6" width="109.107" height="109.107" rx="5" transform="translate(940 189.679)"/>
+          <rect id="Rechteck_95" data-name="Rechteck 95" class="cls-6" width="109.107" height="109.107" rx="5" transform="translate(940 754.679)"/>
+          <rect id="Rechteck_96" data-name="Rechteck 96" class="cls-6" width="109.107" height="109.107" rx="5" transform="translate(1316 189.679)"/>
+          <rect id="Rechteck_82" data-name="Rechteck 82" class="cls-6" width="109.107" height="109.107" rx="5" transform="translate(188 379)"/>
+          <rect id="Rechteck_81" data-name="Rechteck 81" class="cls-6" width="109.107" height="109.107" rx="5" transform="translate(376 755)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
