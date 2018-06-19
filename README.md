@@ -20,9 +20,6 @@
   <img src="https://github.com/sense-chess/artwork/blob/master/pieces/Version1.svg">
   <br>
   <br> 
-  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/Version2.svg">
-  <br>
-  <br> 
  icons:
   <br>
   <br>
