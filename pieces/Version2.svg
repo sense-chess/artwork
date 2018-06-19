@@ -1,0 +1,409 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1845 3725">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Version2);
+      }
+
+      .cls-2, .cls-3, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2, .cls-4 {
+        stroke: #393939;
+        stroke-width: 5px;
+      }
+
+      .cls-4, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-5, .cls-7 {
+        stroke: none;
+      }
+
+      .cls-7 {
+        fill: #393939;
+      }
+    </style>
+    <clipPath id="clip-Version2">
+      <rect width="1845" height="3725"/>
+    </clipPath>
+  </defs>
+  <g id="Version2" class="cls-1">
+    <rect class="cls-8" width="1845" height="3725"/>
+    <g id="Variante1" transform="translate(0 -289)">
+      <g id="king">
+        <g id="king-2" data-name="king" class="cls-2" transform="translate(1597 328)">
+          <rect class="cls-5" width="212" height="650" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="645" rx="7.5"/>
+        </g>
+        <g id="square" class="cls-2" transform="translate(1643 371)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_3" data-name="Linie 3" class="cls-2" x2="20" y2="113" transform="translate(1648.5 375.5)"/>
+        <line id="Linie_4" data-name="Linie 4" class="cls-2" x1="20" y2="113" transform="translate(1737.5 375.5)"/>
+      </g>
+      <g id="queen">
+        <g id="queen-2" data-name="queen" class="cls-2" transform="translate(1285 378)">
+          <rect class="cls-5" width="212" height="600" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="595" rx="7.5"/>
+        </g>
+        <g id="square-2" data-name="square" class="cls-2" transform="translate(1331 421)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_1" data-name="Linie 1" class="cls-2" x2="20" y2="113" transform="translate(1349.5 425.5)"/>
+        <line id="Linie_2" data-name="Linie 2" class="cls-2" x1="20" y2="113" transform="translate(1412.5 425.5)"/>
+      </g>
+      <g id="bishop">
+        <g id="bishop-2" data-name="bishop" class="cls-2" transform="translate(973 428)">
+          <rect class="cls-5" width="212" height="550" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="545" rx="7.5"/>
+        </g>
+        <g id="square-3" data-name="square" class="cls-2" transform="translate(1019 471)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <g id="square-4" data-name="square" class="cls-3" transform="translate(1019 525)">
+          <path class="cls-5" d="M120,56a10,10,0,0,1-10,10H10A10,10,0,0,1,0,56V26.229H39.027V61.15H81.671V26.229H120Z"/>
+          <path class="cls-7" d="M 110 61.00000381469727 C 112.7570037841797 61.00000381469727 115 58.75700378417969 115 56.00000381469727 L 115 31.22900199890137 L 86.67137908935547 31.22900199890137 L 86.67137908935547 61.00000381469727 L 110 61.00000381469727 M 34.027099609375 61.00000381469727 L 34.027099609375 31.22900199890137 L 5 31.22900199890137 L 5 56.00000381469727 C 5 58.75700378417969 7.243000030517578 61.00000381469727 10 61.00000381469727 L 34.027099609375 61.00000381469727 M 110 66 L 10 66 C 4.477159976959229 66 -7.105427357601002e-15 61.52284240722656 -7.105427357601002e-15 56.00000381469727 L -7.105427357601002e-15 26.22900199890137 L 39.027099609375 26.22900199890137 L 39.027099609375 61.14954376220703 L 81.67137908935547 61.14954376220703 L 81.67137908935547 26.22900199890137 L 120 26.22900199890137 L 120 56.00000381469727 C 120 61.52284240722656 115.5228576660156 66 110 66 Z"/>
+        </g>
+        <g id="square-5" data-name="square" class="cls-3" transform="translate(1139 537.229) rotate(180)">
+          <path class="cls-5" d="M120,56a10,10,0,0,1-10,10H10A10,10,0,0,1,0,56V26.229H39.027V61.15H81.671V26.229H120Z"/>
+          <path class="cls-7" d="M 110 61.00000381469727 C 112.7570037841797 61.00000381469727 115 58.75700378417969 115 56.00000381469727 L 115 31.22900199890137 L 86.67137908935547 31.22900199890137 L 86.67137908935547 61.00000381469727 L 110 61.00000381469727 M 34.027099609375 61.00000381469727 L 34.027099609375 31.22900199890137 L 5 31.22900199890137 L 5 56.00000381469727 C 5 58.75700378417969 7.243000030517578 61.00000381469727 10 61.00000381469727 L 34.027099609375 61.00000381469727 M 110 66 L 10 66 C 4.477159976959229 66 -7.105427357601002e-15 61.52284240722656 -7.105427357601002e-15 56.00000381469727 L -7.105427357601002e-15 26.22900199890137 L 39.027099609375 26.22900199890137 L 39.027099609375 61.14954376220703 L 81.67137908935547 61.14954376220703 L 81.67137908935547 26.22900199890137 L 120 26.22900199890137 L 120 56.00000381469727 C 120 61.52284240722656 115.5228576660156 66 110 66 Z"/>
+        </g>
+      </g>
+      <g id="knight">
+        <g id="knight-2" data-name="knight" class="cls-3" transform="translate(661 478)">
+          <path class="cls-5" d="M10,0H202a10,10,0,0,1,10,10V490a10,10,0,0,1-10,10H10A10,10,0,0,1,0,490V10A10,10,0,0,1,10,0Z"/>
+          <path class="cls-7" d="M 202 495 C 204.7570037841797 495 207 492.7569885253906 207 490 L 207 10 C 207 7.243000030517578 204.7570037841797 5 202 5 L 10 5 C 7.243000030517578 5 5 7.243000030517578 5 10 L 5 490 C 5 492.7569885253906 7.243000030517578 495 10 495 L 202 495 M 202 500 L 10 500 C 4.477133274078369 500 0 495.5228576660156 0 490 L 0 10 C 0 4.477133274078369 4.477133274078369 0 10 0 L 202 0 C 207.5228729248047 0 212 4.477133274078369 212 10 L 212 490 C 212 495.5228576660156 207.5228729248047 500 202 500 Z"/>
+        </g>
+        <g id="square-6" data-name="square" class="cls-2" transform="translate(707 522)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <path id="Pfad_10" data-name="Pfad 10" class="cls-2" d="M-11.877,45.267-5.6,3.382,10.312-3.933,41.676,17.084,52.34,20.749" transform="translate(770.5 593.5)"/>
+        <path id="Pfad_11" data-name="Pfad 11" class="cls-2" d="M-34.628,6.6l16.652-25.54L-.629-28.722" transform="translate(744.5 553.5)"/>
+        <path id="Pfad_12" data-name="Pfad 12" class="cls-2" d="M-37.095-39.722-8.327-24.255,5.383,6.6" transform="translate(819.5 564.5)"/>
+      </g>
+      <g id="rook">
+        <g id="rook-2" data-name="rook" class="cls-3" transform="translate(349 528)">
+          <path class="cls-5" d="M10,0H202a10,10,0,0,1,10,10V440a10,10,0,0,1-10,10H10A10,10,0,0,1,0,440V10A10,10,0,0,1,10,0Z"/>
+          <path class="cls-7" d="M 202 445 C 204.7570037841797 445 207 442.7569885253906 207 440 L 207 10 C 207 7.243000030517578 204.7570037841797 5 202 5 L 10 5 C 7.243000030517578 5 5 7.243000030517578 5 10 L 5 440 C 5 442.7569885253906 7.243000030517578 445 10 445 L 202 445 M 202 450 L 10 450 C 4.47712516784668 450 0 445.5228881835938 0 440 L 0 10 C 0 4.477187633514404 4.47712516784668 0 10 0 L 202 0 C 207.5228729248047 0 212 4.477187633514404 212 10 L 212 440 C 212 445.5228881835938 207.5228729248047 450 202 450 Z"/>
+        </g>
+        <g id="square-7" data-name="square" class="cls-2" transform="translate(395 573)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <g id="square-8" data-name="square" class="cls-3" transform="translate(395 627)">
+          <path class="cls-5" d="M120,56a10,10,0,0,1-10,10H10A10,10,0,0,1,0,56V18.229H39.027V61.15H81.671V18.229H120Z"/>
+          <path class="cls-7" d="M 110 61.00000381469727 C 112.7570037841797 61.00000381469727 115 58.75700378417969 115 56.00000381469727 L 115 23.22900199890137 L 86.67137908935547 23.22900199890137 L 86.67137908935547 61.00000381469727 L 110 61.00000381469727 M 34.027099609375 61.00000381469727 L 34.027099609375 23.22900199890137 L 5 23.22900199890137 L 5 56.00000381469727 C 5 58.75700378417969 7.243000030517578 61.00000381469727 10 61.00000381469727 L 34.027099609375 61.00000381469727 M 110 66 L 10 66 C 4.477159976959229 66 -7.105427357601002e-15 61.52284240722656 -7.105427357601002e-15 56.00000381469727 L -7.105427357601002e-15 18.22900199890137 L 39.027099609375 18.22900199890137 L 39.027099609375 61.14954376220703 L 81.67137908935547 61.14954376220703 L 81.67137908935547 18.22900199890137 L 120 18.22900199890137 L 120 56.00000381469727 C 120 61.52284240722656 115.5228576660156 66 110 66 Z"/>
+        </g>
+      </g>
+      <g id="pawn">
+        <g id="pawn-2" data-name="pawn" class="cls-4" transform="translate(37 578)">
+          <rect class="cls-5" width="212" height="400" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="395" rx="7.5"/>
+        </g>
+        <g id="square-9" data-name="square" class="cls-4" transform="translate(83 622)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="Variante2" transform="translate(0 461)">
+      <g id="king-3" data-name="king">
+        <g id="king-4" data-name="king" class="cls-2" transform="translate(1597 328)">
+          <rect class="cls-5" width="212" height="650" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="645" rx="7.5"/>
+        </g>
+        <g id="square-10" data-name="square" class="cls-2" transform="translate(1643 371)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_3-2" data-name="Linie 3" class="cls-2" x2="20" y2="113" transform="translate(1648.5 375.5)"/>
+        <line id="Linie_4-2" data-name="Linie 4" class="cls-2" x1="20" y2="113" transform="translate(1737.5 375.5)"/>
+      </g>
+      <g id="queen-3" data-name="queen">
+        <g id="queen-4" data-name="queen" class="cls-2" transform="translate(1285 378)">
+          <rect class="cls-5" width="212" height="600" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="595" rx="7.5"/>
+        </g>
+        <g id="square-11" data-name="square" class="cls-2" transform="translate(1331 421)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_1-2" data-name="Linie 1" class="cls-2" x2="20" y2="113" transform="translate(1349.5 425.5)"/>
+        <line id="Linie_2-2" data-name="Linie 2" class="cls-2" x1="20" y2="113" transform="translate(1412.5 425.5)"/>
+      </g>
+      <g id="bishop-3" data-name="bishop">
+        <g id="bishop-4" data-name="bishop" class="cls-2" transform="translate(973 428)">
+          <rect class="cls-5" width="212" height="550" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="545" rx="7.5"/>
+        </g>
+        <g id="square-12" data-name="square" class="cls-2" transform="translate(1019 471)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_5" data-name="Linie 5" class="cls-2" x2="20" y2="113" transform="translate(1038.5 474.5)"/>
+        <line id="Linie_6" data-name="Linie 6" class="cls-2" x2="20" y2="113" transform="translate(1061.5 474.5)"/>
+      </g>
+      <g id="knight-3" data-name="knight">
+        <g id="knight-4" data-name="knight" class="cls-3" transform="translate(661 478)">
+          <path class="cls-5" d="M10,0H202a10,10,0,0,1,10,10V490a10,10,0,0,1-10,10H10A10,10,0,0,1,0,490V10A10,10,0,0,1,10,0Z"/>
+          <path class="cls-7" d="M 202 495 C 204.7570037841797 495 207 492.7569885253906 207 490 L 207 10 C 207 7.243000030517578 204.7570037841797 5 202 5 L 10 5 C 7.243000030517578 5 5 7.243000030517578 5 10 L 5 490 C 5 492.7569885253906 7.243000030517578 495 10 495 L 202 495 M 202 500 L 10 500 C 4.477133274078369 500 0 495.5228576660156 0 490 L 0 10 C 0 4.477133274078369 4.477133274078369 0 10 0 L 202 0 C 207.5228729248047 0 212 4.477133274078369 212 10 L 212 490 C 212 495.5228576660156 207.5228729248047 500 202 500 Z"/>
+        </g>
+        <g id="square-13" data-name="square" class="cls-2" transform="translate(707 522)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <path id="Pfad_12-2" data-name="Pfad 12" class="cls-2" d="M2.71,10.024H-37.095L-8.857,74.871" transform="translate(819.5 564.5)"/>
+      </g>
+      <g id="rook-3" data-name="rook">
+        <g id="rook-4" data-name="rook" class="cls-3" transform="translate(349 528)">
+          <path class="cls-5" d="M10,0H202a10,10,0,0,1,10,10V440a10,10,0,0,1-10,10H10A10,10,0,0,1,0,440V10A10,10,0,0,1,10,0Z"/>
+          <path class="cls-7" d="M 202 445 C 204.7570037841797 445 207 442.7569885253906 207 440 L 207 10 C 207 7.243000030517578 204.7570037841797 5 202 5 L 10 5 C 7.243000030517578 5 5 7.243000030517578 5 10 L 5 440 C 5 442.7569885253906 7.243000030517578 445 10 445 L 202 445 M 202 450 L 10 450 C 4.47712516784668 450 0 445.5228881835938 0 440 L 0 10 C 0 4.477187633514404 4.47712516784668 0 10 0 L 202 0 C 207.5228729248047 0 212 4.477187633514404 212 10 L 212 440 C 212 445.5228881835938 207.5228729248047 450 202 450 Z"/>
+        </g>
+        <g id="square-14" data-name="square" class="cls-2" transform="translate(395 573)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <g id="square-15" data-name="square" class="cls-3" transform="translate(395 627)">
+          <path class="cls-5" d="M120,56a10,10,0,0,1-10,10H10A10,10,0,0,1,0,56V18.229H34.027V61.15H85.671V18.229H120Z"/>
+          <path class="cls-7" d="M 110 61.00000381469727 C 112.7570037841797 61.00000381469727 115 58.75700378417969 115 56.00000381469727 L 115 23.22900199890137 L 90.67137908935547 23.22900199890137 L 90.67137908935547 61.00000381469727 L 110 61.00000381469727 M 29.027099609375 61.00000381469727 L 29.027099609375 23.22900199890137 L 5 23.22900199890137 L 5 56.00000381469727 C 5 58.75700378417969 7.243000030517578 61.00000381469727 10 61.00000381469727 L 29.027099609375 61.00000381469727 M 110 66 L 10 66 C 4.477159976959229 66 -7.105427357601002e-15 61.52284240722656 -7.105427357601002e-15 56.00000381469727 L -7.105427357601002e-15 18.22900199890137 L 34.027099609375 18.22900199890137 L 34.027099609375 61.14954376220703 L 85.67137908935547 61.14954376220703 L 85.67137908935547 18.22900199890137 L 120 18.22900199890137 L 120 56.00000381469727 C 120 61.52284240722656 115.5228576660156 66 110 66 Z"/>
+        </g>
+      </g>
+      <g id="pawn-3" data-name="pawn">
+        <g id="pawn-4" data-name="pawn" class="cls-4" transform="translate(37 578)">
+          <rect class="cls-5" width="212" height="400" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="395" rx="7.5"/>
+        </g>
+        <g id="square-16" data-name="square" class="cls-4" transform="translate(83 622)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="Variante3" transform="translate(0 1211)">
+      <g id="king-5" data-name="king">
+        <g id="king-6" data-name="king" class="cls-2" transform="translate(1597 328)">
+          <rect class="cls-5" width="212" height="650" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="645" rx="7.5"/>
+        </g>
+        <g id="square-17" data-name="square" class="cls-2" transform="translate(1643 371)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_3-3" data-name="Linie 3" class="cls-2" x2="20" y2="113" transform="translate(1648.5 375.5)"/>
+        <line id="Linie_4-3" data-name="Linie 4" class="cls-2" x1="20" y2="113" transform="translate(1737.5 375.5)"/>
+      </g>
+      <g id="queen-5" data-name="queen">
+        <g id="queen-6" data-name="queen" class="cls-2" transform="translate(1285 378)">
+          <rect class="cls-5" width="212" height="600" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="595" rx="7.5"/>
+        </g>
+        <g id="square-18" data-name="square" class="cls-2" transform="translate(1331 421)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_1-3" data-name="Linie 1" class="cls-2" x2="20" y2="113" transform="translate(1349.5 425.5)"/>
+        <line id="Linie_2-3" data-name="Linie 2" class="cls-2" x1="20" y2="113" transform="translate(1412.5 425.5)"/>
+      </g>
+      <g id="bishop-5" data-name="bishop">
+        <g id="bishop-6" data-name="bishop" class="cls-2" transform="translate(973 428)">
+          <rect class="cls-5" width="212" height="550" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="545" rx="7.5"/>
+        </g>
+        <g id="square-19" data-name="square" class="cls-2" transform="translate(1019 471)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_5-2" data-name="Linie 5" class="cls-2" x2="20" y2="113" transform="translate(1038.5 474.5)"/>
+        <line id="Linie_6-2" data-name="Linie 6" class="cls-2" x2="20" y2="113" transform="translate(1061.5 474.5)"/>
+      </g>
+      <g id="knight-5" data-name="knight">
+        <g id="knight-6" data-name="knight" class="cls-3" transform="translate(661 478)">
+          <path class="cls-5" d="M10,0H202a10,10,0,0,1,10,10V490a10,10,0,0,1-10,10H10A10,10,0,0,1,0,490V10A10,10,0,0,1,10,0Z"/>
+          <path class="cls-7" d="M 202 495 C 204.7570037841797 495 207 492.7569885253906 207 490 L 207 10 C 207 7.243000030517578 204.7570037841797 5 202 5 L 10 5 C 7.243000030517578 5 5 7.243000030517578 5 10 L 5 490 C 5 492.7569885253906 7.243000030517578 495 10 495 L 202 495 M 202 500 L 10 500 C 4.477133274078369 500 0 495.5228576660156 0 490 L 0 10 C 0 4.477133274078369 4.477133274078369 0 10 0 L 202 0 C 207.5228729248047 0 212 4.477133274078369 212 10 L 212 490 C 212 495.5228576660156 207.5228729248047 500 202 500 Z"/>
+        </g>
+        <g id="square-20" data-name="square" class="cls-2" transform="translate(707 522)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <path id="Pfad_12-3" data-name="Pfad 12" class="cls-2" d="M5.5,56.46-29.776,6.493H-55.3l46.276,68.8" transform="translate(819.5 564.5)"/>
+      </g>
+      <g id="rook-5" data-name="rook">
+        <g id="rook-6" data-name="rook" class="cls-3" transform="translate(349 528)">
+          <path class="cls-5" d="M10,0H202a10,10,0,0,1,10,10V440a10,10,0,0,1-10,10H10A10,10,0,0,1,0,440V10A10,10,0,0,1,10,0Z"/>
+          <path class="cls-7" d="M 202 445 C 204.7570037841797 445 207 442.7569885253906 207 440 L 207 10 C 207 7.243000030517578 204.7570037841797 5 202 5 L 10 5 C 7.243000030517578 5 5 7.243000030517578 5 10 L 5 440 C 5 442.7569885253906 7.243000030517578 445 10 445 L 202 445 M 202 450 L 10 450 C 4.47712516784668 450 0 445.5228881835938 0 440 L 0 10 C 0 4.477187633514404 4.47712516784668 0 10 0 L 202 0 C 207.5228729248047 0 212 4.477187633514404 212 10 L 212 440 C 212 445.5228881835938 207.5228729248047 450 202 450 Z"/>
+        </g>
+        <g id="square-21" data-name="square" class="cls-2" transform="translate(395 573)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <g id="square-22" data-name="square" class="cls-3" transform="translate(395 627)">
+          <path class="cls-5" d="M120,56a10,10,0,0,1-10,10H10A10,10,0,0,1,0,56V18.229H32.027V61.15H87.671V18.229H120Z"/>
+          <path class="cls-7" d="M 110 61.00000381469727 C 112.7570037841797 61.00000381469727 115 58.75700378417969 115 56.00000381469727 L 115 23.22900199890137 L 92.67137908935547 23.22900199890137 L 92.67137908935547 61.00000381469727 L 110 61.00000381469727 M 27.027099609375 61.00000381469727 L 27.027099609375 23.22900199890137 L 5 23.22900199890137 L 5 56.00000381469727 C 5 58.75700378417969 7.243000030517578 61.00000381469727 10 61.00000381469727 L 27.027099609375 61.00000381469727 M 110 66 L 10 66 C 4.477159976959229 66 -7.105427357601002e-15 61.52284240722656 -7.105427357601002e-15 56.00000381469727 L -7.105427357601002e-15 18.22900199890137 L 32.027099609375 18.22900199890137 L 32.027099609375 61.14954376220703 L 87.67137908935547 61.14954376220703 L 87.67137908935547 18.22900199890137 L 120 18.22900199890137 L 120 56.00000381469727 C 120 61.52284240722656 115.5228576660156 66 110 66 Z"/>
+        </g>
+      </g>
+      <g id="pawn-5" data-name="pawn">
+        <g id="pawn-6" data-name="pawn" class="cls-4" transform="translate(37 578)">
+          <rect class="cls-5" width="212" height="400" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="395" rx="7.5"/>
+        </g>
+        <g id="square-23" data-name="square" class="cls-4" transform="translate(83 622)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="Variante3-2" data-name="Variante3" transform="translate(0 1961)">
+      <g id="king-7" data-name="king">
+        <g id="king-8" data-name="king" class="cls-2" transform="translate(1597 328)">
+          <rect class="cls-5" width="212" height="650" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="645" rx="7.5"/>
+        </g>
+        <g id="square-24" data-name="square" class="cls-2" transform="translate(1643 371)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_3-4" data-name="Linie 3" class="cls-2" x2="20" y2="113" transform="translate(1648.5 375.5)"/>
+        <line id="Linie_4-4" data-name="Linie 4" class="cls-2" x1="20" y2="113" transform="translate(1737.5 375.5)"/>
+      </g>
+      <g id="queen-7" data-name="queen">
+        <g id="queen-8" data-name="queen" class="cls-2" transform="translate(1285 378)">
+          <rect class="cls-5" width="212" height="600" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="595" rx="7.5"/>
+        </g>
+        <g id="square-25" data-name="square" class="cls-2" transform="translate(1331 421)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_1-4" data-name="Linie 1" class="cls-2" x2="20" y2="113" transform="translate(1349.5 425.5)"/>
+        <line id="Linie_2-4" data-name="Linie 2" class="cls-2" x1="20" y2="113" transform="translate(1412.5 425.5)"/>
+      </g>
+      <g id="bishop-7" data-name="bishop">
+        <g id="bishop-8" data-name="bishop" class="cls-2" transform="translate(973 428)">
+          <rect class="cls-5" width="212" height="550" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="545" rx="7.5"/>
+        </g>
+        <g id="square-26" data-name="square" class="cls-2" transform="translate(1019 471)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_5-3" data-name="Linie 5" class="cls-2" x2="20" y2="113" transform="translate(1038.5 474.5)"/>
+        <line id="Linie_6-3" data-name="Linie 6" class="cls-2" x2="20" y2="113" transform="translate(1061.5 474.5)"/>
+      </g>
+      <g id="knight-7" data-name="knight">
+        <g id="knight-8" data-name="knight" class="cls-3" transform="translate(661 478)">
+          <path class="cls-5" d="M10,0H202a10,10,0,0,1,10,10V490a10,10,0,0,1-10,10H10A10,10,0,0,1,0,490V10A10,10,0,0,1,10,0Z"/>
+          <path class="cls-7" d="M 202 495 C 204.7570037841797 495 207 492.7569885253906 207 490 L 207 10 C 207 7.243000030517578 204.7570037841797 5 202 5 L 10 5 C 7.243000030517578 5 5 7.243000030517578 5 10 L 5 490 C 5 492.7569885253906 7.243000030517578 495 10 495 L 202 495 M 202 500 L 10 500 C 4.477133274078369 500 0 495.5228576660156 0 490 L 0 10 C 0 4.477133274078369 4.477133274078369 0 10 0 L 202 0 C 207.5228729248047 0 212 4.477133274078369 212 10 L 212 490 C 212 495.5228576660156 207.5228729248047 500 202 500 Z"/>
+        </g>
+        <g id="square-27" data-name="square" class="cls-2" transform="translate(707 522)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <path id="Pfad_12-4" data-name="Pfad 12" class="cls-2" d="M5.5,56.46-29.776,6.493H-55.3l46.276,68.8" transform="translate(819.5 564.5)"/>
+      </g>
+      <g id="rook-7" data-name="rook">
+        <g id="rook-8" data-name="rook" class="cls-3" transform="translate(349 528)">
+          <path class="cls-5" d="M10,0H202a10,10,0,0,1,10,10V440a10,10,0,0,1-10,10H10A10,10,0,0,1,0,440V10A10,10,0,0,1,10,0Z"/>
+          <path class="cls-7" d="M 202 445 C 204.7570037841797 445 207 442.7569885253906 207 440 L 207 10 C 207 7.243000030517578 204.7570037841797 5 202 5 L 10 5 C 7.243000030517578 5 5 7.243000030517578 5 10 L 5 440 C 5 442.7569885253906 7.243000030517578 445 10 445 L 202 445 M 202 450 L 10 450 C 4.47712516784668 450 0 445.5228881835938 0 440 L 0 10 C 0 4.477187633514404 4.47712516784668 0 10 0 L 202 0 C 207.5228729248047 0 212 4.477187633514404 212 10 L 212 440 C 212 445.5228881835938 207.5228729248047 450 202 450 Z"/>
+        </g>
+        <g id="square-28" data-name="square" class="cls-2" transform="translate(395 573)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <g id="square-29" data-name="square" class="cls-3" transform="translate(395 627)">
+          <path class="cls-5" d="M120,56a10,10,0,0,1-10,10H10A10,10,0,0,1,0,56V33.229H32.027V61.15H87.671V33.229H120Z"/>
+          <path class="cls-7" d="M 110 61.00000381469727 C 112.7570037841797 61.00000381469727 115 58.75700378417969 115 56.00000381469727 L 115 38.22900009155273 L 92.67137908935547 38.22900009155273 L 92.67137908935547 61.00000381469727 L 110 61.00000381469727 M 27.027099609375 61.00000381469727 L 27.027099609375 38.22900009155273 L 5 38.22900009155273 L 5 56.00000381469727 C 5 58.75700378417969 7.243000030517578 61.00000381469727 10 61.00000381469727 L 27.027099609375 61.00000381469727 M 110 66 L 10 66 C 4.477159976959229 66 -7.105427357601002e-15 61.52284240722656 -7.105427357601002e-15 56.00000381469727 L -7.105427357601002e-15 33.22900009155273 L 32.027099609375 33.22900009155273 L 32.027099609375 61.14954376220703 L 87.67137908935547 61.14954376220703 L 87.67137908935547 33.22900009155273 L 120 33.22900009155273 L 120 56.00000381469727 C 120 61.52284240722656 115.5228576660156 66 110 66 Z"/>
+        </g>
+      </g>
+      <g id="pawn-7" data-name="pawn">
+        <g id="pawn-8" data-name="pawn" class="cls-4" transform="translate(37 578)">
+          <rect class="cls-5" width="212" height="400" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="395" rx="7.5"/>
+        </g>
+        <g id="square-30" data-name="square" class="cls-4" transform="translate(83 622)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+      </g>
+    </g>
+    <g id="Variante3-3" data-name="Variante3" transform="translate(0 2711)">
+      <g id="king-9" data-name="king">
+        <g id="king-10" data-name="king" class="cls-2" transform="translate(1597 328)">
+          <rect class="cls-5" width="212" height="650" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="645" rx="7.5"/>
+        </g>
+        <g id="square-31" data-name="square" class="cls-2" transform="translate(1643 371)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_3-5" data-name="Linie 3" class="cls-2" x2="20" y2="113" transform="translate(1648.5 375.5)"/>
+        <line id="Linie_4-5" data-name="Linie 4" class="cls-2" x1="20" y2="113" transform="translate(1737.5 375.5)"/>
+      </g>
+      <g id="queen-9" data-name="queen">
+        <g id="queen-10" data-name="queen" class="cls-2" transform="translate(1285 378)">
+          <rect class="cls-5" width="212" height="600" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="595" rx="7.5"/>
+        </g>
+        <g id="square-32" data-name="square" class="cls-2" transform="translate(1331 421)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_1-5" data-name="Linie 1" class="cls-2" x2="20" y2="113" transform="translate(1349.5 425.5)"/>
+        <line id="Linie_2-5" data-name="Linie 2" class="cls-2" x1="20" y2="113" transform="translate(1412.5 425.5)"/>
+      </g>
+      <g id="bishop-9" data-name="bishop">
+        <g id="bishop-10" data-name="bishop" class="cls-2" transform="translate(973 428)">
+          <rect class="cls-5" width="212" height="550" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="207" height="545" rx="7.5"/>
+        </g>
+        <g id="square-33" data-name="square" class="cls-2" transform="translate(1019 471)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <line id="Linie_5-4" data-name="Linie 5" class="cls-2" x2="20" y2="113" transform="translate(1038.5 474.5)"/>
+        <line id="Linie_6-4" data-name="Linie 6" class="cls-2" x2="20" y2="113" transform="translate(1061.5 474.5)"/>
+      </g>
+      <g id="knight-9" data-name="knight">
+        <g id="knight-10" data-name="knight" class="cls-3" transform="translate(661 478)">
+          <path class="cls-5" d="M10,0H202a10,10,0,0,1,10,10V490a10,10,0,0,1-10,10H10A10,10,0,0,1,0,490V10A10,10,0,0,1,10,0Z"/>
+          <path class="cls-7" d="M 202 495 C 204.7570037841797 495 207 492.7569885253906 207 490 L 207 10 C 207 7.243000030517578 204.7570037841797 5 202 5 L 10 5 C 7.243000030517578 5 5 7.243000030517578 5 10 L 5 490 C 5 492.7569885253906 7.243000030517578 495 10 495 L 202 495 M 202 500 L 10 500 C 4.477133274078369 500 0 495.5228576660156 0 490 L 0 10 C 0 4.477133274078369 4.477133274078369 0 10 0 L 202 0 C 207.5228729248047 0 212 4.477133274078369 212 10 L 212 490 C 212 495.5228576660156 207.5228729248047 500 202 500 Z"/>
+        </g>
+        <g id="square-34" data-name="square" class="cls-2" transform="translate(707 522)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <path id="Pfad_12-5" data-name="Pfad 12" class="cls-2" d="M5.5,56.46-29.776,6.493H-55.3l46.276,68.8" transform="translate(819.5 564.5)"/>
+      </g>
+      <g id="rook-9" data-name="rook">
+        <g id="rook-10" data-name="rook" class="cls-3" transform="translate(349 528)">
+          <path class="cls-5" d="M10,0H202a10,10,0,0,1,10,10V440a10,10,0,0,1-10,10H10A10,10,0,0,1,0,440V10A10,10,0,0,1,10,0Z"/>
+          <path class="cls-7" d="M 202 445 C 204.7570037841797 445 207 442.7569885253906 207 440 L 207 10 C 207 7.243000030517578 204.7570037841797 5 202 5 L 10 5 C 7.243000030517578 5 5 7.243000030517578 5 10 L 5 440 C 5 442.7569885253906 7.243000030517578 445 10 445 L 202 445 M 202 450 L 10 450 C 4.47712516784668 450 0 445.5228881835938 0 440 L 0 10 C 0 4.477187633514404 4.47712516784668 0 10 0 L 202 0 C 207.5228729248047 0 212 4.477187633514404 212 10 L 212 440 C 212 445.5228881835938 207.5228729248047 450 202 450 Z"/>
+        </g>
+        <g id="square-35" data-name="square" class="cls-2" transform="translate(395 573)">
+          <rect class="cls-5" width="120" height="120" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="115" height="115" rx="7.5"/>
+        </g>
+        <g id="square-36" data-name="square" class="cls-3" transform="translate(395 627)">
+          <path class="cls-5" d="M120,56a10,10,0,0,1-10,10H10A10,10,0,0,1,0,56V-4.771H32.027V61.15H87.671V-4.771H120Z"/>
+          <path class="cls-7" d="M 110 61.00000381469727 C 112.7570037841797 61.00000381469727 115 58.75700378417969 115 56.00000381469727 L 115 0.2290019541978836 L 92.67137908935547 0.2290019541978836 L 92.67137908935547 61.00000381469727 L 110 61.00000381469727 M 27.027099609375 61.00000381469727 L 27.027099609375 0.2290019541978836 L 5 0.2290019541978836 L 5 56.00000381469727 C 5 58.75700378417969 7.243000030517578 61.00000381469727 10 61.00000381469727 L 27.027099609375 61.00000381469727 M 110 66 L 10 66 C 4.477159976959229 66 -7.105427357601002e-15 61.52284240722656 -7.105427357601002e-15 56.00000381469727 L -7.105427357601002e-15 -4.770998001098633 L 32.027099609375 -4.770998001098633 L 32.027099609375 61.14954376220703 L 87.67137908935547 61.14954376220703 L 87.67137908935547 -4.770998001098633 L 120 -4.770998001098633 L 120 56.00000381469727 C 120 61.52284240722656 115.5228576660156 66 110 66 Z"/>
+        </g>
+      </g>
+      <g id="pawn-9" data-name="pawn">
+        <g id="pawn-10" data-name="pawn" class="cls-4" transform="translate(70 578)">
+          <rect class="cls-5" width="153.552" height="400" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="148.552" height="395" rx="7.5"/>
+        </g>
+        <g id="square-37" data-name="square" class="cls-4" transform="translate(103.318 622)">
+          <rect class="cls-5" width="86.916" height="86.92" rx="10"/>
+          <rect class="cls-6" x="2.5" y="2.5" width="81.916" height="81.92" rx="7.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -30,10 +30,13 @@
   <img src="https://github.com/sense-chess/artwork/blob/master/DISPLAY/Version1.svg">
   <br>
   <br>
- ´pieces possibilities:
+ pieces possibilities:
   <br>
   <br>
   <img src="https://github.com/sense-chess/artwork/blob/master/pieces/Version1.svg">
+  <br>
+  version 2, everything in a "square-design":
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/Version2.svg">
   <br>
   <br> 
  icons:
