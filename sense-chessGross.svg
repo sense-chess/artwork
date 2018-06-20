@@ -2,12 +2,12 @@
   <defs>
     <style>
       .cls-1 {
-        clip-path: url(#clip-klein);
+        clip-path: url(#clip-Zeichenfläche_1);
       }
 
       .cls-2 {
         fill: #434343;
-        font-size: 48px;
+        font-size: 20px;
         font-family: SegoeUI-Semibold, Segoe UI;
         font-weight: 600;
       }
@@ -29,14 +29,14 @@
         fill: #fff;
       }
     </style>
-    <clipPath id="clip-klein">
+    <clipPath id="clip-Zeichenfläche_1">
       <rect width="273" height="119"/>
     </clipPath>
   </defs>
-  <g id="klein" class="cls-1">
+  <g id="Zeichenfläche_1" data-name="Zeichenfläche – 1" class="cls-1">
     <rect class="cls-6" width="273" height="119"/>
     <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(-171 -175)">
-      <text id="sense-chess" class="cls-2" transform="translate(307 250)"><tspan x="-128.543" y="0">sense-chess</tspan></text>
+      <text id="sense-chess" class="cls-2" transform="translate(307 243)"><tspan x="-53.56" y="0">sense-chess</tspan></text>
       <g id="Rechteck_1" data-name="Rechteck 1" class="cls-3" transform="translate(171 175)">
         <rect class="cls-4" width="273" height="119"/>
         <rect class="cls-5" x="1.5" y="1.5" width="270" height="116"/>
