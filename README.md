@@ -48,6 +48,10 @@
   <img src="https://github.com/sense-chess/artwork/blob/master/pieces/pawn/bP.svg" width=15%>
   <img src="https://github.com/sense-chess/artwork/blob/master/pieces/queen/bQ.svg" width=15%>
   <img src="https://github.com/sense-chess/artwork/blob/master/pieces/rook/bR.svg" width=15%>
+ moodboard:
+  <br>
+  <br>
+  <img src="https://github.com/sense-chess/artwork/blob/master/board/moodboard.svg">
   
   <br>
   <img src="https://github.com/sense-chess/artwork/blob/master/pieces/bishop/wB.svg" width=15%>
