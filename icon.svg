@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 119 119">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-icon);
+      }
+
+      .cls-2 {
+        fill: #434343;
+        font-size: 29px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 600;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #3c3a39;
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+
+      .cls-6 {
+        fill: none;
+      }
+    </style>
+    <clipPath id="clip-icon">
+      <rect width="119" height="119"/>
+    </clipPath>
+  </defs>
+  <g id="icon" class="cls-1">
+    <rect class="cls-6" width="119" height="119"/>
+    <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(-171 -175)">
+      <text id="sense_-_chess" data-name="sense
+-
+chess" class="cls-2" transform="translate(231 221)"><tspan x="-36.37" y="0">sense</tspan><tspan x="-5.827" y="20">-</tspan><tspan x="-35.464" y="40">chess</tspan></text>
+      <g id="Rechteck_1" data-name="Rechteck 1" class="cls-3" transform="translate(171 175)">
+        <rect class="cls-4" width="119" height="119"/>
+        <rect class="cls-5" x="1.5" y="1.5" width="116" height="116"/>
+      </g>
+    </g>
+  </g>
+</svg>
