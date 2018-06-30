@@ -11,9 +11,9 @@
  design guide:
   <br>
   <br>
-  <img src="https://github.com/sense-chess/artwork/blob/master/styleguide/styleguide.svg">
+  <img src="https://github.com/sense-chess/artwork/blob/master/styleguide/Styleguide.svg">
   <br>
-  <img src="https://github.com/sense-chess/artwork/blob/master/styleguide/styleguide1.svg">
+  <img src="https://github.com/sense-chess/artwork/blob/master/styleguide/Styleguide1.svg">
   <br>
   <br>
  board concept:
