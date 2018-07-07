@@ -8,6 +8,12 @@
   These are the files of the project sense-chess that are independent of code like the sense-chess board, the logo and the icons.
   <br>
   <br>
+pieces:
+  <br>
+  <br>
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/3dmodels.png">
+  <br>
+  <br>
  icons:
   <br>
   <br>
