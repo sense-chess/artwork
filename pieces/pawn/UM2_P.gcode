@@ -40392,14 +40392,14 @@ M107
 M82 ;absolute extrusion mode
 ;End of Gcode
 ;SETTING_3 {"global_quality": "[general]\\nversion = 4\\nname = Normaldruck\\nde
-;SETTING_3 finition = ultimaker2_plus\\n\\n[metadata]\\nquality_type = normal\\n
-;SETTING_3 setting_version = 4\\ntype = quality_changes\\n\\n[values]\\nadhesion
+;SETTING_3 finition = ultimaker2_plus\\n\\n[metadata]\\nsetting_version = 4\\nty
+;SETTING_3 pe = quality_changes\\nquality_type = normal\\n\\n[values]\\nadhesion
 ;SETTING_3 _type = brim\\ninfill_sparse_density = 10\\ninfill_sparse_thickness =
 ;SETTING_3  0.3\\nlayer_height = 0.2\\nlayer_height_0 = 0.3\\nspeed_infill = 90\
 ;SETTING_3 \nspeed_print = 70\\nspeed_topbottom = 40\\nspeed_travel = 100\\nspee
 ;SETTING_3 d_wall = 70.0\\nsupport_enable = True\\nsupport_type = buildplate\\nw
 ;SETTING_3 all_line_count = 5\\nwall_thickness = 1.0\\n\\n", "extruder_quality":
 ;SETTING_3  ["[general]\\nversion = 4\\nname = Normaldruck\\ndefinition = ultima
-;SETTING_3 ker2_plus\\n\\n[metadata]\\nquality_type = normal\\nsetting_version =
-;SETTING_3  4\\nposition = 0\\ntype = quality_changes\\n\\n[values]\\nbrim_width
+;SETTING_3 ker2_plus\\n\\n[metadata]\\nsetting_version = 4\\ntype = quality_chan
+;SETTING_3 ges\\nposition = 0\\nquality_type = normal\\n\\n[values]\\nbrim_width
 ;SETTING_3  = 0.0\\nsupport_angle = 10\\n\\n"]}
