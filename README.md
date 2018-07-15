@@ -44,21 +44,6 @@ pieces:
   <img src="https://github.com/sense-chess/artwork/blob/master/board/neartochess.svg">
   <br>
   <br> 
-  board as display possibilities, when choosing difficulty:
-  <br>
-  <br>
-  <img src="https://github.com/sense-chess/artwork/blob/master/DISPLAY/Version1.svg">
-  <br>
-  <br>
- pieces possibilities:
-  <br>
-  <br>
-  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/Version1.svg">
-  <br>
-  version 2, everything in a "square-design":
-  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/Version2.svg">
-  <br>
-  <br> 
  icons:
   <br>
   <br>
@@ -67,9 +52,7 @@ pieces:
   <img src="https://github.com/sense-chess/artwork/blob/master/pieces/knight/bN.svg" width=15%>
   <img src="https://github.com/sense-chess/artwork/blob/master/pieces/pawn/bP.svg" width=15%>
   <img src="https://github.com/sense-chess/artwork/blob/master/pieces/queen/bQ.svg" width=15%>
-  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/rook/bR.svg" width=15%>
- 
-  
+  <img src="https://github.com/sense-chess/artwork/blob/master/pieces/rook/bR.svg" width=15%>  
   <br>
   <img src="https://github.com/sense-chess/artwork/blob/master/pieces/bishop/wB.svg" width=15%>
   <img src="https://github.com/sense-chess/artwork/blob/master/pieces/king/wK.svg" width=15%>
@@ -79,27 +62,22 @@ pieces:
   <img src="https://github.com/sense-chess/artwork/blob/master/pieces/rook/wR.svg" width=15%>
   <br>
   <br>
-  moodboard:
-  <br>
-  <br>
-  <img src="https://github.com/sense-chess/artwork/blob/master/board/moodboard.jpg">
-  <br>
-  <br>
   background:
   <br>
   <br>
-  <img src="https://github.com/sense-chess/artwork/blob/master/background.svg">
+  <img src="https://github.com/sense-chess/artwork/blob/master/background.jpg">
   <br>
-  <br>
-  Under permanent construction.
-  <br>
-  <br>
- <br>
-  <br>
-  <br>
-</p>  
-<h4 align="center">Inspiration</h4>
-<p align="center">
-  <a href="http://openmoji.org/">OpenMoji</a>
   <br>
 </p>
+<h4 align="center">Attribution Requirements</h4>
+<p align="center">
+  As an open source project, attribution is critical from a legal, practical and motivational perspective. Please give us credits! Common places for attribution are for example: to mention us in your project README, the 'About' section or the footer on a website/in mobile apps.
+</p>
+<br>
+<br>
+<h4 align="center">License</h4>
+<p align="center">
+  The emojis are licensed under the Creative Commons Share Alike 4.0 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) license.
+</p>
+
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
