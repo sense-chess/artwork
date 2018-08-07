@@ -69,6 +69,11 @@ pieces:
   <br>
   <br>
 </p>
+<h4 align="center">Attribution</h4>
+<p align="center">
+  <a href="https://fonts.google.com/specimen/Roboto">Roboto font</a>
+  <br>
+  <br>
 <h4 align="center">Attribution Requirements</h4>
 <p align="center">
   As an open source project, attribution is critical from a legal, practical and motivational perspective. Please give us credits! Common places for attribution are for example: to mention us in your project README, the 'About' section or the footer on a website/in mobile apps.
